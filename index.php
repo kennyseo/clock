@@ -171,10 +171,8 @@
 
 
 	<div id="download" class="container"><!-- skill set container starts -->
-
-							<h1 class="box mt-5 mb-2 col-md-offset-1 ">EXPERIENCES</h1><!-- EXPERIENCES starts -->
-							<div class="row"><!-- row starts -->
-
+		<h1 class="box mt-5 mb-2 col-md-offset-1 ">EXPERIENCES</h1><!-- EXPERIENCES starts -->
+		<div class="row"><!-- row starts -->
       <div class="col-md-5 col-md-offset-1" style="background: #333;"><!-- col 10 starts -->
 				<table class="clock dark">
 					<tr>
@@ -220,10 +218,9 @@
 						<td class="min">분</td>
 					</tr>
 				</table>
-
 			</div>
-			<div class="col-md-5 col-md-offset-1 "><!-- col 10 starts -->
 
+			<div class="col-md-5 col-md-offset-1 ">
 				<table class="clock light">
 					<tr>
 						<td class="ten">열</td>
