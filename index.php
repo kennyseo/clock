@@ -171,12 +171,103 @@
 
 
 	<div id="download" class="container"><!-- skill set container starts -->
-    <div class="row"><!-- row starts -->
-      <div class="col-md-10 col-md-offset-1 "><!-- col 10 starts -->
 
-					<div class="divider mt-5"></div>
+							<h1 class="box mt-5 mb-2 col-md-offset-1 ">EXPERIENCES</h1><!-- EXPERIENCES starts -->
+							<div class="row"><!-- row starts -->
 
-					<h1 class="box mt-5 mb-2">EXPERIENCES</h1><!-- EXPERIENCES starts -->
+      <div class="col-md-5 col-md-offset-1" style="background: #333;"><!-- col 10 starts -->
+				<table class="clock dark">
+					<tr>
+						<td class="ten">열</td>
+						<td class="one">한</td>
+						<td class="two">두</td>
+						<td class="three">세</td>
+						<td class="four">네</td>
+					</tr>
+					<tr>
+						<td class="five">다</td>
+						<td class="six">여</td>
+						<td class="fivesix">섯</td>
+						<td class="seven1">일</td>
+						<td class="seven2">곱</td>
+					</tr>
+					<tr>
+						<td class="eight1">여</td>
+						<td class="eight2">덟</td>
+						<td class="nine1">아</td>
+						<td class="nine2">홉</td>
+						<td class="hour">시</td>
+					</tr>
+					<tr>
+						<td class="twentym">이</td>
+						<td class="thirtym">삼</td>
+						<td class="fourtym">사</td>
+						<td class="fiftym">오</td>
+						<td class="tenm">십</td>
+					</tr>
+					<tr>
+						<td class="onem">일</td>
+						<td class="twom">이</td>
+						<td class="threem">삼</td>
+						<td class="fourm">사</td>
+						<td class="fivem">오</td>
+					</tr>
+					<tr>
+						<td class="sixm">육</td>
+						<td class="sevenm">칠</td>
+						<td class="eightm">팔</td>
+						<td class="nightm">구</td>
+						<td class="min">분</td>
+					</tr>
+				</table>
+
+			</div>
+			<div class="col-md-5 col-md-offset-1 "><!-- col 10 starts -->
+
+				<table class="clock light">
+					<tr>
+						<td class="ten">열</td>
+						<td class="one">한</td>
+						<td class="two">두</td>
+						<td class="three">세</td>
+						<td class="four">네</td>
+					</tr>
+					<tr>
+						<td class="five">다</td>
+						<td class="six">여</td>
+						<td class="fivesix">섯</td>
+						<td class="seven1">일</td>
+						<td class="seven2">곱</td>
+					</tr>
+					<tr>
+						<td class="eight1">여</td>
+						<td class="eight2">덟</td>
+						<td class="nine1">아</td>
+						<td class="nine2">홉</td>
+						<td class="hour">시</td>
+					</tr>
+					<tr>
+						<td class="twentym">이</td>
+						<td class="thirtym">삼</td>
+						<td class="fourtym">사</td>
+						<td class="fiftym">오</td>
+						<td class="tenm">십</td>
+					</tr>
+					<tr>
+						<td class="onem">일</td>
+						<td class="twom">이</td>
+						<td class="threem">삼</td>
+						<td class="fourm">사</td>
+						<td class="fivem">오</td>
+					</tr>
+					<tr>
+						<td class="sixm">육</td>
+						<td class="sevenm">칠</td>
+						<td class="eightm">팔</td>
+						<td class="nightm">구</td>
+						<td class="min">분</td>
+					</tr>
+				</table>
 			</div>
 		</div>
 	</div>
