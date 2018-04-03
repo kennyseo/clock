@@ -55,13 +55,13 @@
                           <input class="form-control search-field" type="search" name="search" id="search-field">
                       </div>
                   </form>
-                  <p class="navbar-text navbar-right"><a class="navbar-link login" href="#">Log In</a> <a class="btn btn-default action-button" role="button" href="#">Sign Up</a></p>
+                  <p class="navbar-text navbar-right"><a class="navbar-link login" href="#">Log In</a> <a class="btn btn-default action-button" role="button" href="#">DOWNLOAD</a></p>
               </div>
           </div>
       </nav>
       <div class="container hero">
           <div class="row">
-              <div class="col-lg-6 col-md-6">
+              <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
                   <h1>한글 시계</h1>
                   <p>Mauris egestas tellus non ex condimentum, ac ullamcorper sapien dictum. Nam consequat neque quis sapien viverra convallis. In non tempus lorem. </p>
                   <button class="btn btn-default btn-lg action-button" type="button">&emsp;다운로드&emsp;</button>
