@@ -24,47 +24,30 @@
 </head>
 
 <body>
-  <div id="loader">
-		<!-- Preloader inner -->
-		<div id="loaderInner">
-			<div class="spinner"></div>
-		</div>
-		<!-- End preloader inner -->
-	</div>
+
 	<!-- End preloader-->
   <header>
       <nav class="navbar navbar-default navigation-clean-search">
           <div class="container">
-              <div class="navbar-header"><a class="navbar-brand navbar-link" href="#">Company Name</a>
+              <div class="navbar-header"><a class="navbar-brand navbar-link" href="https://kennyseo.github.io/koreanClock">한글 시계</a>
                   <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
               </div>
               <div class="collapse navbar-collapse" id="navcol-1">
-                  <ul class="nav navbar-nav">
-                      <li class="active" role="presentation"><a href="#">Link</a></li>
-                      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Dropdown <span class="caret"></span></a>
-                          <ul class="dropdown-menu" role="menu">
-                              <li role="presentation"><a href="#">First Item</a></li>
-                              <li role="presentation"><a href="#">Second Item</a></li>
-                              <li role="presentation"><a href="#">Third Item</a></li>
-                          </ul>
-                      </li>
+                  <ul class="nav navbar-nav navbar-right">
+                      <li role="presentation"><a href="https://kennyseo.github.io/koreanClock">Home</a></li>
+
+											<li role="presentation"><a class="navbar-link login" href="https://github.com/kennyseo/koreanClock">Github</a></li>
+											<li role="presentation"><a class="btn btn-default action-button" role="button" href="#download">DOWNLOAD</a></li>
                   </ul>
-                  <form class="navbar-form navbar-left" target="_self">
-                      <div class="form-group">
-                          <label class="control-label" for="search-field"><i class="glyphicon glyphicon-search"></i></label>
-                          <input class="form-control search-field" type="search" name="search" id="search-field">
-                      </div>
-                  </form>
-                  <p class="navbar-text navbar-right"><a class="navbar-link login" href="#">Log In</a> <a class="btn btn-default action-button" role="button" href="#">DOWNLOAD</a></p>
               </div>
           </div>
       </nav>
       <div class="container hero">
           <div class="row">
               <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
-                  <h1>한글 시계</h1>
-                  <p>Mauris egestas tellus non ex condimentum, ac ullamcorper sapien dictum. Nam consequat neque quis sapien viverra convallis. In non tempus lorem. </p>
-                  <button class="btn btn-default btn-lg action-button" type="button">&emsp;다운로드&emsp;</button>
+                  <h1></h1>
+                  <p>한글로 만들어진 시계를 보고 영어버전으로 만들기전 PHP로 연습해본 베타 버전입니다. 영어 시계를 한글 시계처럼 하기에는 반복되는 알파벳이 너무 많아서 레터가 아님 단어 X 단어 조합으로 만들어야 할 거 같습니다. 달력과 초를 포함한 시계는 계발중입니다. </p>
+                  <a class="btn btn-default btn-lg action-button" href="#donwload">&emsp;다운로드&emsp;</a>
               </div>
 
               <div class="col-lg-6 col-md-6">
@@ -186,6 +169,17 @@
       </div>
   </header>
 
+
+	<div id="download" class="container"><!-- skill set container starts -->
+    <div class="row"><!-- row starts -->
+      <div class="col-md-10 col-md-offset-1 "><!-- col 10 starts -->
+
+					<div class="divider mt-5"></div>
+
+					<h1 class="box mt-5 mb-2">EXPERIENCES</h1><!-- EXPERIENCES starts -->
+			</div>
+		</div>
+	</div>
 
 
   <div class="container mt-4"><!-- about me starts -->
