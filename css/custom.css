@@ -296,20 +296,43 @@ header .iphone-mockup .screen:before{
 /***** CLOCK STARTS *****/
 .clock {
   font-family: "Hanna", Arial, sans-serif;
-  margin-top: 100px;
   font-size: 300%;
   letter-spacing: .4em;
   line-height: 1.1;
-  color: rgba(255,255,255,.2);
+  color: rgba(255,255,255,.1);
   margin: 100px auto 0;
 }
 
+.clock-dark {
+  font-family: "Hanna", Arial, sans-serif;
+  font-size: 300%;
+  letter-spacing: .4em;
+  line-height: 1.1;
+  color: rgba(255,255,255,.1);
+  margin: 80px auto;
+}
+
+.clock-light {
+  font-family: "Hanna", Arial, sans-serif;
+  font-size: 300%;
+  letter-spacing: .4em;
+  line-height: 1.1;
+  color: rgba(0,0,0,.03);
+  margin: 80px auto;
+}
+
+.dark {
+  background: #000;
+  padding: 1px 0;
+}
+
+.light {
+  background: #fff;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
 
 /***** CLOCK ENDS *****/
-
-
-
-
 .box {
   display: inline-block;
   padding: 25px 20px;
